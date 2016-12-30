@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/facebook1"
+        android:orderInCategory="100"
+        android:title="facebook"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_facebook"
+        ></item>
+    <item
+        android:id="@+id/facebook2"
+        android:orderInCategory="100"
+        android:title="facebook"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_whatsapp"
+        ></item>
+    <item
+        android:id="@+id/facebook3"
+        android:orderInCategory="100"
+        android:title="facebook"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_yout"
+        ></item>
+    <item
+        android:id="@+id/facebook4"
+        android:orderInCategory="100"
+        android:title="facebook"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_google"
+        ></item>
+
+</menu>
